@@ -29,7 +29,7 @@ Columns Included:<br>
 
 ## Business Questions Solved
 
-<a href="healthcare_dataset.pdf" target="_blank">All Pages healthcare_dashboard.pdf</a> <br>
+<a href="healthcare_dashboard.pdf" target="_blank">All Pages healthcare_dashboard.pdf</a> <br>
 <br>
 This project answers several healthcare analytics questions:<br>
 1. What are the most common medical conditions among patients?<br>
