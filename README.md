@@ -37,15 +37,15 @@ This project answers several healthcare analytics questions:<br>
 <br>
 ## What This Project Demonstrates
 This project demonstrates the following data analytics skills:<br>
-✔ Data Cleaning<br>
-✔ Data Transformation<br>
-✔ SQL Query Writing<br>
-✔ Data Visualization<br>
-✔ Business Insight Generation<br>
-✔ Dashboard Design<br>
-✔ End-to-End Data Analytics Workflow<br>
+Data Cleaning<br>
+Data Transformation<br>
+SQL Query Writing<br>
+Data Visualization<br>
+Business Insight Generation<br>
+Dashboard Design<br>
+End-to-End Data Analytics Workflow<br>
 <br>
-## Conclusion 
+## Conclusion
 This healthcare analytics project highlights how raw healthcare data can be transformed into actionable insights using Excel, PostgreSQL, and Power BI.<br>
 The analysis helps understand:<br>
 •	Patient demographics<br>
