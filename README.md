@@ -1,14 +1,8 @@
 # Healthcare Data Analytics Project
-## Project Overview
+## Project Objective
 This project focuses on analyzing a Healthcare Dataset containing 55,500 patient records to uncover insights related to medical conditions, hospital admissions, billing patterns, and patient demographics.<br>
-The project demonstrates a complete Data Analytics workflow including:<br>
-1. Data Cleaning using Excel<br>
-2. Data Storage & Querying using PostgreSQL (pgAdmin)<br>
-3. Data Visualization & Dashboard Creation using Power BI<br>
 
-The goal is to transform raw healthcare data into meaningful insights that can support healthcare management decisions.<br>
-
-## Dataset Information
+## Dataset used
 Total Records: 55,500<br>
 <a href="healthcare_dataset_clean.csv" target="_blank">healthcare_dataset_clean.csv</a> <br>
 Columns Included:<br>
@@ -38,7 +32,7 @@ This project answers several healthcare analytics questions:<br>
 5. Which hospitals handle the most patients?<br>
 6. What percentage of test results are normal vs abnormal?<br>
 
-## What This Project Demonstrates
+## Process
 This project demonstrates the following data analytics skills:<br>
 1. Data Cleaning<br>
 2. Data Transformation<br>
@@ -48,17 +42,10 @@ This project demonstrates the following data analytics skills:<br>
 6. Dashboard Design<br>
 7. End-to-End Data Analytics Workflow<br>
 
-## Conclusion
-This healthcare analytics project highlights how raw healthcare data can be transformed into actionable insights using Excel, PostgreSQL, and Power BI.<br>
-The analysis helps understand:<br>
-1. Patient demographics<br>
-2. Hospital admission patterns<br>
-3. Medical condition trends<br>
-4. Healthcare billing insights<br>
+## Project Insight
+The specific focus of this healthcare data analytics project is the analysis of the provided dataset on patient records in order to identify meaningful patterns and trends in terms of patient demographics, medical conditions, hospital admissions, and billing amounts. First and foremost, the dataset was arranged and cleaned in Microsoft Excel in order to ensure the accuracy and consistency of the data. Once the data was properly cleaned and arranged, the dataset was then imported into the PostgreSQL database management system through the use of the pgAdmin tool. Lastly, the Power BI tool was utilized in the creation of an interactive dashboard in order to present the identified trends and insights in a more understandable manner. Overall, this healthcare data analytics project presents the raw data and its transformation into meaningful insights through the entire data analytics lifecycle.
 
-Such insights can support hospital management, healthcare planning, and cost analysis.<br>
-
-## Interview-Ready Summary
-"In this project, I analyzed a healthcare dataset containing over 55,000 patient records. I cleaned the data using Excel, stored and analyzed it using PostgreSQL (pgAdmin), and built an interactive Power BI dashboard to visualize insights such as patient demographics, common medical conditions, admission patterns, and billing trends. This project demonstrates my ability to perform end-to-end data analysis and create business insights from raw data."
+## Final Conclusion
+Overall, this project demonstrates the value and necessity of data analytics in the healthcare industry by transforming raw data about patients into useful information that can be used to make informed decisions. This was achieved through the application of Excel, PostgreSQL, and Power BI tools, which identified trends in the demographics of patients, common medical conditions, and hospital admissions. The Power BI tool is instrumental in helping to communicate these findings in an easily understandable format, which can be beneficial to the healthcare industry as it can be used to improve hospital operations and patient care. This project is an example of an end-to-end data analytics project that can be used in the real world and is beneficial because it shows the application and usage of data cleaning, SQL, and visualization skills.
 
 
